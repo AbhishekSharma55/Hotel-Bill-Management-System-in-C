@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1691860273 source:e:\projects\c projects\hotel_bill_management\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1691948967 source:e:\projects\c projects\hotel_bill_management\testing.c
+	<stdio.h>
+	<stdlib.h>
+
+1692355559 source:e:\projects\c_projects\hotel_bill_management\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
